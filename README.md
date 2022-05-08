@@ -1,5 +1,4 @@
-# Cfthacks
-Captiozon- Smart Water Purity Testing Solution
+# Smart Water Purity Testing Solution 
 
 IMPORTANT DETAILS OF THE ONLINE PLATFORM
 
@@ -23,6 +22,6 @@ Applications used : Atom and Arduino IDE
 
 CSS code files and Bootstrap loaded from www.html5up.net <<
 
-The PHP and HTML scripts are self written.
+
 
 
